@@ -2616,7 +2616,7 @@ svg:not(:root).fa-icon {
 	letter-spacing: 2px;
 }
 .p2 {
-	font-size: 28px;
+	font-size: 30px;
 	font-family: "Gumela";
 	letter-spacing: 1px;
 }
@@ -2668,7 +2668,7 @@ svg:not(:root).fa-icon {
 		font-size: 15px;
 	}
 	.p2 {
-		font-size: 20px;
+		font-size: 23px;
 		font-family: "Gumela";
 		letter-spacing: 1px;
 		line-height: 25px;
@@ -2719,13 +2719,13 @@ svg:not(:root).fa-icon {
 		font-size: 15px;
 	}
 	.p2 {
-		font-size: 20px;
+		font-size: 25px;
 		font-family: "Gumela";
 		letter-spacing: 1px;
 		line-height: 25px;
 	}
 	.p3 {
-		font-size: 10px;
+		font-size: 15px;
 		font-family: "Gumela";
 		letter-spacing: 0.3px;
 	}
@@ -2735,7 +2735,7 @@ svg:not(:root).fa-icon {
 	.bg-col {
 		background-color: rgba(95, 95, 95, 0.959);
 		color: rgb(255, 255, 255);
-		font-size: 25px;
+		font-size: 20px;
 		font-weight: bold;
 		font-family: "Gumela";
 		letter-spacing: 0.5px;
